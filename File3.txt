@@ -1,1 +1,5 @@
+HEAD
 Conflict check
+
+This is in dev branch
+1001fix
